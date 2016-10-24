@@ -1,0 +1,6 @@
+#Intruções
+
+*O projeto foi criado em Eclipse ustilizando java 1.6.
+*Deixei o arquivo log.txt na raiz do projeto.
+*Executar a classe Programa.java que contem o método main.
+
